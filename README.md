@@ -10,7 +10,7 @@ To utilise my knowledge and ideas in the field of data science and machine learn
 - 🌱 I’m currently learning Deep Learning,NLP & Computer Vision.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns:He/Him
-- 😄 Words that describe me -Self-motivated,Focused,Hardworking & Perfectionalist.
+- 😄 Words that describe me -Self-motivated,Focused & Hardworking.
 
 
 <!--
